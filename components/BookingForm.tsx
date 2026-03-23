@@ -101,8 +101,8 @@ export const BookingForm = () => {
   };
 
   const handleWhatsAppBooking = () => {
-    const phone = '6285173104440';
-    let message = `*New Booking Request - Tiketopia*\n\n`;
+    const phone = '6285829289422';
+    let message = `*New Booking Request - Ubud Exploring*\n\n`;
     message += `*Service:* ${service === 'airport' ? 'Airport Transfer' : 'Private Car Charter'}\n`;
     
     const bookingData = {

@@ -8,8 +8,8 @@ export const Header = () => {
     <header className="flex h-14 items-center justify-center border-b border-zinc-100 bg-white px-6">
       <div className="relative h-8 w-32">
         <Image
-          src="https://tiketopia.com/uploads/0000/6/2025/09/08/tiketopia-2.png"
-          alt="Tiketopia Logo"
+          src="https://cmdcnlhpphkeskmeyytw.supabase.co/storage/v1/object/public/cdn/ubud-exploring/ubudexploring-logo.png"
+          alt="Ubud Exploring"
           fill
           className="object-contain"
           referrerPolicy="no-referrer"

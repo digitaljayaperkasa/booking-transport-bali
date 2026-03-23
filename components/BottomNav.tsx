@@ -10,7 +10,7 @@ interface BottomNavProps {
 
 export const BottomNav = ({ activeTab, onTabChange }: BottomNavProps) => {
   const contactWhatsApp = () => {
-    window.open('https://wa.me/6285173104440', '_blank');
+    window.open('https://wa.me/6285829289422', '_blank');
   };
 
   return (

@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Tiketopia - Bali Airport Transfer & Car Charter',
+  title: 'Ubud Exploring - Bali Airport Transfer & Car Charter',
   description: 'Book your Bali airport transfer and private car charter easily.',
 };
 

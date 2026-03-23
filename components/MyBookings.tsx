@@ -40,7 +40,7 @@ export const MyBookings = () => {
   };
 
   const contactWhatsApp = () => {
-    window.open('https://wa.me/6285173104440', '_blank');
+    window.open('https://wa.me/6285829289422', '_blank');
   };
 
   if (bookings.length === 0) {
@@ -118,7 +118,7 @@ export const MyBookings = () => {
             <button 
               onClick={() => {
                 const msg = encodeURIComponent(`Hi, I'd like to follow up on my booking ID: ${booking.id}`);
-                window.open(`https://wa.me/6285173104440?text=${msg}`, '_blank');
+                window.open(`https://wa.me/6285829289422?text=${msg}`, '_blank');
               }}
               className="flex items-center gap-2 rounded-lg bg-zinc-900 px-4 py-2 text-xs font-bold text-white"
             >
