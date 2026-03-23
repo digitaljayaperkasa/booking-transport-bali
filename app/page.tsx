@@ -29,7 +29,7 @@ export default function Home() {
             {/* Hero Section */}
             <section className="relative h-64 w-full overflow-hidden">
               <Image
-                src="https://cmdcnlhpphkeskmeyytw.supabase.co/storage/v1/object/public/Free%20Storage/tiketopia.jpg"
+                src="https://cmdcnlhpphkeskmeyytw.supabase.co/storage/v1/object/public/cdn/ubud-exploring/ubud-exploring-cover.jpg"
                 alt="Bali Airport Transport"
                 fill
                 className="object-cover"
@@ -46,7 +46,7 @@ export default function Home() {
               >
                 <h1 className="text-3xl font-bold text-zinc-900 leading-tight">
                   Explore Bali with <br />
-                  <span className="text-[#f54502]">Tiketopia</span>
+                  <span className="text-[#f54502]">Ubud Exploring</span>
                 </h1>
                 <p className="mt-2 text-sm text-zinc-500 font-medium leading-relaxed">
                   Bali offers a perfect blend of culture, beaches, and nature. From the artistic heart of Ubud 
